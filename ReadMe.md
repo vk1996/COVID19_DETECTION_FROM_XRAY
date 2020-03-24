@@ -3,7 +3,7 @@
 ### OVERVIEW ####
 
 [DISCLAIMER] This is a research project to analyse feasibility of putting
-efficient deep learning models in production for screening COVID19 samples 
+efficient deep learning models in production for detecting COVID19 samples from xray
 as fast and precise as possible.  
 
 ##### The accpeted input image formats are jpeg ###
