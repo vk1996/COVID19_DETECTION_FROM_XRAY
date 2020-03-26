@@ -20,6 +20,9 @@ pip3 install -r requirements.txt
 
 The jupyter notebook covid19_classifcation.ipynb consists of all steps to train , test model
 
+### Known Issues ###
+
+As previously said this a research project and covid19 data is sparse , the results can be unreliable. 
 
 ### ToDo ###
 Collect more covid19 data.
